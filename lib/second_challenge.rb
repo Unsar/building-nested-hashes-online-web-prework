@@ -4,5 +4,5 @@ def second_challenge
       (:patriarch => "Lord Montague", :matriarch => "Lady Montague", :hero => "Romeo", :hero_friends => "Benvolvio", "Mercutio")}, 
     
     :capulet => {
-      (:patriarch => "Lord Capulet", :matriarch => "Lady Capulet", :heroine => "Juliet", :heroine_friends => "Steven", "Nurse")}}
+      (:patriarch => "Lord Capulet", :matriarch => "Lady Capulet", :heroine => "Juliet", :heroine_friends => "Steven", "Nurse")}
 end
